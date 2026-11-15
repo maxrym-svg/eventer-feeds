@@ -9,32 +9,4 @@ X-WR-CALNAME:Eventer · D&B
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 X-WR-TIMEZONE:America/Edmonton
-BEGIN:VEVENT
-SUMMARY:$? · Deep Down Inside: David Rust [HARD TRANCE/HARD BOUNCE]
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-DTSTAMP:20261115T224043Z
-UID:13d01771aa37a67a2388@eventer
-SEQUENCE:5789
-DESCRIPTION:Genres: house\, ukg\, techno\, dnb\nEventer score: 95/100\nPro
- moter: Deep Down Inside\nTickets: https://show.ps/l/bb9c76a2/
-LOCATION:CLUB101\, YEG
-STATUS:CONFIRMED
-URL:https://show.ps/l/bb9c76a2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:$? · Deep Down Inside: CYNIKIL & DDI pres. David Rust @ Common/UN
- DRGRND
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
-DTSTAMP:20261115T224043Z
-UID:51e377cc72ad65c69940@eventer
-SEQUENCE:32405
-DESCRIPTION:Genres: house\, ukg\, techno\, dnb\nEventer score: 95/100\nPro
- moter: Deep Down Inside\nTickets: https://www.showpass.com/davidrustyyc202
- 6/
-LOCATION:COMMON UNDGRND\, YYC
-STATUS:CONFIRMED
-URL:https://www.showpass.com/davidrustyyc2026/
-END:VEVENT
 END:VCALENDAR
