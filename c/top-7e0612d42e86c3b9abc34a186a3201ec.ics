@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventer//Calgary event finder//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Eventer · Top picks — found automatically by eventer
+NAME:Eventer · Top picks
+X-WR-CALNAME:Eventer · Top picks
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-PUBLISHED-TTL:PT1H
+X-WR-TIMEZONE:America/Edmonton
+END:VCALENDAR
