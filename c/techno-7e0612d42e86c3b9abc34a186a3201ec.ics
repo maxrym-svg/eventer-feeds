@@ -13,21 +13,8 @@ BEGIN:VEVENT
 SUMMARY:$59.71-86.94 · Beehive Presents: ORBITAL • 11.20.26
 DTSTART:20261121T030000Z
 DTEND:20261121T080000Z
-DTSTAMP:20261116T032902Z
-UID:5e26d1bdb10610e8f355@eventer
-SEQUENCE:49700
-DESCRIPTION:Genres: house\, techno\nEventer score: 100/100\nPromoter: Beeh
- ive Presents\nTickets: https://www.beehivepresents.com/events/orbital2
-LOCATION:Calgary Tower (map)\, 101 9 Ave SW\, Calgary\, Alberta\, T2P 1J9
-STATUS:CONFIRMED
-URL:https://www.beehivepresents.com/events/orbital2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:$59.71-86.94 · Beehive Presents: ORBITAL • 11.20.26
-DTSTART:20261121T030000Z
-DTEND:20261121T080000Z
-DTSTAMP:20261116T032902Z
-UID:598018c5023ee967abd9@eventer
+DTSTAMP:20261116T230542Z
+UID:78e2fc216caa2ae61346@eventer
 SEQUENCE:22319
 DESCRIPTION:Genres: house\, techno\nEventer score: 100/100\nPromoter: Beeh
  ive Presents\nTickets: https://www.beehivepresents.com/events/orbital2
@@ -36,26 +23,10 @@ STATUS:CONFIRMED
 URL:https://www.beehivepresents.com/events/orbital2
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:$59.71-86.94 · BEEHIVE PRESENTS: ORBITAL 2.0 • 11.20.26 • CAL
- GARY TOWER
-DTSTART:20261121T030000Z
-DTEND:20261121T080000Z
-DTSTAMP:20261116T032902Z
-UID:db74a9335e38a132a288@eventer
-SEQUENCE:98537
-DESCRIPTION:** THIS EVENT HAS BEEN CANCELLED OR REMOVED **\nGenres: house
- \, techno\nEventer score: 100/100\nPromoter: BEEHIVE PRESENTS\nTickets: /o
- rbital2/
-LOCATION:Calgary Tower (Observation Deck)\, 101 9 Ave SW\, Calgary\, Alber
- ta\, T2P 1J9
-STATUS:CANCELLED
-URL:/orbital2/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:$? · Pitbull Rave
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261116T032902Z
+DTSTAMP:20261116T230542Z
 UID:be0cd28564275c6357a3@eventer
 SEQUENCE:30395
 DESCRIPTION:Genres: techno\nEventer score: 42/100\nTickets: https://www.co

@@ -14,7 +14,7 @@ SUMMARY:Free · Commonwealth Bar & Stage: GTA 6 Release Party @ World Famo
  us Fridays
 DTSTART:20261120T060000Z
 DTEND:20261120T100000Z
-DTSTAMP:20261116T032902Z
+DTSTAMP:20261116T230542Z
 UID:0df4eb80ebdcb3af240c@eventer
 SEQUENCE:81773
 DESCRIPTION:Genres: hiphop\nEventer score: 65/100\nPromoter: Commonwealth 
@@ -26,11 +26,25 @@ URL:https://www.commonwealthbar.ca/events/gta-6-release-party-world-famous
  -fridays
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free · Commonwealth Bar & Stage: Weekly (unconfirmed) · World Fa
+ mous Fridays · Nov 20
+DTSTART:20261121T040000Z
+DTEND:20261121T080000Z
+DTSTAMP:20261116T230542Z
+UID:b9e09bbeda523ad0e54a@eventer
+SEQUENCE:15748
+DESCRIPTION:Genres: hiphop\nEventer score: 65/100\nPromoter: Commonwealth 
+ Bar & Stage\nTickets: https://www.commonwealthbar.ca/events
+LOCATION:Commonwealth Bar & Stage\, 731 10 Ave SW\, Calgary\, AB
+STATUS:CONFIRMED
+URL:https://www.commonwealthbar.ca/events
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:$? · Broken City: Natural Selection · Nov 21
 DTSTART:20261122T040000Z
 DTEND:20261122T080000Z
-DTSTAMP:20261116T032902Z
-UID:bfe45eeca21a758abd37@eventer
+DTSTAMP:20261116T230542Z
+UID:8c1d39e3347edc2a4fb8@eventer
 SEQUENCE:7455
 DESCRIPTION:Genres: hiphop\nEventer score: 55/100\nPromoter: Broken City\n
  Tickets: https://brokencity.ca/wp/weekly-events/
@@ -42,9 +56,37 @@ BEGIN:VEVENT
 SUMMARY:$? · Velvet Room YYC: Y2K Saturday · Nov 21
 DTSTART:20261122T040000Z
 DTEND:20261122T080000Z
-DTSTAMP:20261116T032902Z
-UID:9bf683c42ea314827abf@eventer
+DTSTAMP:20261116T230542Z
+UID:e13808ad3f847d56539f@eventer
 SEQUENCE:15623
+DESCRIPTION:Genres: hiphop\nEventer score: 55/100\nPromoter: Velvet Room Y
+ YC\nTickets: https://velvetroomyyc.ca/calgary-night-clubs-y2k-saturday/
+LOCATION:Velvet Room
+STATUS:CONFIRMED
+URL:https://velvetroomyyc.ca/calgary-night-clubs-y2k-saturday/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:$? · Broken City: Weekly (unconfirmed) · Natural Selection · No
+ v 21
+DTSTART:20261122T040000Z
+DTEND:20261122T080000Z
+DTSTAMP:20261116T230542Z
+UID:bfe45eeca21a758abd37@eventer
+SEQUENCE:63056
+DESCRIPTION:Genres: hiphop\nEventer score: 55/100\nPromoter: Broken City\n
+ Tickets: https://brokencity.ca/wp/weekly-events/
+LOCATION:Broken City\, 613 11 Ave SW\, Calgary\, AB
+STATUS:CONFIRMED
+URL:https://brokencity.ca/wp/weekly-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:$? · Velvet Room YYC: Weekly (unconfirmed) · Y2K Saturday · Nov
+  21
+DTSTART:20261122T040000Z
+DTEND:20261122T080000Z
+DTSTAMP:20261116T230542Z
+UID:9bf683c42ea314827abf@eventer
+SEQUENCE:96824
 DESCRIPTION:Genres: hiphop\nEventer score: 55/100\nPromoter: Velvet Room Y
  YC\nTickets: https://velvetroomyyc.ca/calgary-night-clubs-y2k-saturday/
 LOCATION:Velvet Room
@@ -55,9 +97,23 @@ BEGIN:VEVENT
 SUMMARY:Free · Commonwealth Bar & Stage: World Famous Fridays · Nov 27
 DTSTART:20261128T040000Z
 DTEND:20261128T080000Z
-DTSTAMP:20261116T032902Z
-UID:7b42c7ef1234e42343cc@eventer
+DTSTAMP:20261116T230542Z
+UID:5b0796a348f5462f5586@eventer
 SEQUENCE:23112
+DESCRIPTION:Genres: hiphop\nEventer score: 65/100\nPromoter: Commonwealth 
+ Bar & Stage\nTickets: https://www.commonwealthbar.ca/events
+LOCATION:Commonwealth Bar & Stage\, 731 10 Ave SW\, Calgary\, AB
+STATUS:CONFIRMED
+URL:https://www.commonwealthbar.ca/events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free · Commonwealth Bar & Stage: Weekly (unconfirmed) · World Fa
+ mous Fridays · Nov 27
+DTSTART:20261128T040000Z
+DTEND:20261128T080000Z
+DTSTAMP:20261116T230542Z
+UID:7b42c7ef1234e42343cc@eventer
+SEQUENCE:47726
 DESCRIPTION:Genres: hiphop\nEventer score: 65/100\nPromoter: Commonwealth 
  Bar & Stage\nTickets: https://www.commonwealthbar.ca/events
 LOCATION:Commonwealth Bar & Stage\, 731 10 Ave SW\, Calgary\, AB
@@ -68,8 +124,8 @@ BEGIN:VEVENT
 SUMMARY:$? · Broken City: Natural Selection · Nov 28
 DTSTART:20261129T040000Z
 DTEND:20261129T080000Z
-DTSTAMP:20261116T032902Z
-UID:35d5202626744f532265@eventer
+DTSTAMP:20261116T230542Z
+UID:f44e0347c4e1aa2dd8aa@eventer
 SEQUENCE:92551
 DESCRIPTION:Genres: hiphop\nEventer score: 55/100\nPromoter: Broken City\n
  Tickets: https://brokencity.ca/wp/weekly-events/
@@ -81,9 +137,37 @@ BEGIN:VEVENT
 SUMMARY:$? · Velvet Room YYC: Y2K Saturday · Nov 28
 DTSTART:20261129T040000Z
 DTEND:20261129T080000Z
-DTSTAMP:20261116T032902Z
-UID:863b47890f4c34850a83@eventer
+DTSTAMP:20261116T230542Z
+UID:8bd71d8cbc6d54d142e4@eventer
 SEQUENCE:90764
+DESCRIPTION:Genres: hiphop\nEventer score: 55/100\nPromoter: Velvet Room Y
+ YC\nTickets: https://velvetroomyyc.ca/calgary-night-clubs-y2k-saturday/
+LOCATION:Velvet Room
+STATUS:CONFIRMED
+URL:https://velvetroomyyc.ca/calgary-night-clubs-y2k-saturday/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:$? · Broken City: Weekly (unconfirmed) · Natural Selection · No
+ v 28
+DTSTART:20261129T040000Z
+DTEND:20261129T080000Z
+DTSTAMP:20261116T230542Z
+UID:35d5202626744f532265@eventer
+SEQUENCE:3313
+DESCRIPTION:Genres: hiphop\nEventer score: 55/100\nPromoter: Broken City\n
+ Tickets: https://brokencity.ca/wp/weekly-events/
+LOCATION:Broken City\, 613 11 Ave SW\, Calgary\, AB
+STATUS:CONFIRMED
+URL:https://brokencity.ca/wp/weekly-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:$? · Velvet Room YYC: Weekly (unconfirmed) · Y2K Saturday · Nov
+  28
+DTSTART:20261129T040000Z
+DTEND:20261129T080000Z
+DTSTAMP:20261116T230542Z
+UID:863b47890f4c34850a83@eventer
+SEQUENCE:29428
 DESCRIPTION:Genres: hiphop\nEventer score: 55/100\nPromoter: Velvet Room Y
  YC\nTickets: https://velvetroomyyc.ca/calgary-night-clubs-y2k-saturday/
 LOCATION:Velvet Room
@@ -94,9 +178,23 @@ BEGIN:VEVENT
 SUMMARY:Free · Commonwealth Bar & Stage: World Famous Fridays · Dec 04
 DTSTART:20261205T040000Z
 DTEND:20261205T080000Z
-DTSTAMP:20261116T032902Z
-UID:6e928981f7d8c8d4d3e4@eventer
+DTSTAMP:20261116T230542Z
+UID:5fc386e1b3e73084cda6@eventer
 SEQUENCE:25965
+DESCRIPTION:Genres: hiphop\nEventer score: 65/100\nPromoter: Commonwealth 
+ Bar & Stage\nTickets: https://www.commonwealthbar.ca/events
+LOCATION:Commonwealth Bar & Stage\, 731 10 Ave SW\, Calgary\, AB
+STATUS:CONFIRMED
+URL:https://www.commonwealthbar.ca/events
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free · Commonwealth Bar & Stage: Weekly (unconfirmed) · World Fa
+ mous Fridays · Dec 04
+DTSTART:20261205T040000Z
+DTEND:20261205T080000Z
+DTSTAMP:20261116T230542Z
+UID:6e928981f7d8c8d4d3e4@eventer
+SEQUENCE:98833
 DESCRIPTION:Genres: hiphop\nEventer score: 65/100\nPromoter: Commonwealth 
  Bar & Stage\nTickets: https://www.commonwealthbar.ca/events
 LOCATION:Commonwealth Bar & Stage\, 731 10 Ave SW\, Calgary\, AB
@@ -107,8 +205,8 @@ BEGIN:VEVENT
 SUMMARY:$? · Broken City: Natural Selection · Dec 05
 DTSTART:20261206T040000Z
 DTEND:20261206T080000Z
-DTSTAMP:20261116T032902Z
-UID:f22b52377840c6dccd6e@eventer
+DTSTAMP:20261116T230542Z
+UID:373c33585d8ebfaf725f@eventer
 SEQUENCE:89691
 DESCRIPTION:Genres: hiphop\nEventer score: 55/100\nPromoter: Broken City\n
  Tickets: https://brokencity.ca/wp/weekly-events/
@@ -120,9 +218,37 @@ BEGIN:VEVENT
 SUMMARY:$? · Velvet Room YYC: Y2K Saturday · Dec 05
 DTSTART:20261206T040000Z
 DTEND:20261206T080000Z
-DTSTAMP:20261116T032902Z
-UID:14c808fff4e40fe6e08d@eventer
+DTSTAMP:20261116T230542Z
+UID:4320c8dadef9904a2fe1@eventer
 SEQUENCE:36733
+DESCRIPTION:Genres: hiphop\nEventer score: 55/100\nPromoter: Velvet Room Y
+ YC\nTickets: https://velvetroomyyc.ca/calgary-night-clubs-y2k-saturday/
+LOCATION:Velvet Room
+STATUS:CONFIRMED
+URL:https://velvetroomyyc.ca/calgary-night-clubs-y2k-saturday/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:$? · Broken City: Weekly (unconfirmed) · Natural Selection · De
+ c 05
+DTSTART:20261206T040000Z
+DTEND:20261206T080000Z
+DTSTAMP:20261116T230542Z
+UID:f22b52377840c6dccd6e@eventer
+SEQUENCE:24230
+DESCRIPTION:Genres: hiphop\nEventer score: 55/100\nPromoter: Broken City\n
+ Tickets: https://brokencity.ca/wp/weekly-events/
+LOCATION:Broken City\, 613 11 Ave SW\, Calgary\, AB
+STATUS:CONFIRMED
+URL:https://brokencity.ca/wp/weekly-events/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:$? · Velvet Room YYC: Weekly (unconfirmed) · Y2K Saturday · Dec
+  05
+DTSTART:20261206T040000Z
+DTEND:20261206T080000Z
+DTSTAMP:20261116T230542Z
+UID:14c808fff4e40fe6e08d@eventer
+SEQUENCE:73353
 DESCRIPTION:Genres: hiphop\nEventer score: 55/100\nPromoter: Velvet Room Y
  YC\nTickets: https://velvetroomyyc.ca/calgary-night-clubs-y2k-saturday/
 LOCATION:Velvet Room
@@ -133,8 +259,8 @@ BEGIN:VEVENT
 SUMMARY:Free · Commonwealth Bar & Stage: World Famous Fridays · Dec 11
 DTSTART:20261212T040000Z
 DTEND:20261212T080000Z
-DTSTAMP:20261116T032902Z
-UID:f8a0b66e6cbe295b7eda@eventer
+DTSTAMP:20261116T230542Z
+UID:5f5fc46b6baa4e0339bc@eventer
 SEQUENCE:98357
 DESCRIPTION:Genres: hiphop\nEventer score: 65/100\nPromoter: Commonwealth 
  Bar & Stage\nTickets: https://www.commonwealthbar.ca/events
@@ -146,8 +272,8 @@ BEGIN:VEVENT
 SUMMARY:$? · Broken City: Natural Selection · Dec 12
 DTSTART:20261213T040000Z
 DTEND:20261213T080000Z
-DTSTAMP:20261116T032902Z
-UID:908774b408725610c532@eventer
+DTSTAMP:20261116T230542Z
+UID:a461e2204faeb158ca5f@eventer
 SEQUENCE:69849
 DESCRIPTION:Genres: hiphop\nEventer score: 55/100\nPromoter: Broken City\n
  Tickets: https://brokencity.ca/wp/weekly-events/
@@ -159,8 +285,8 @@ BEGIN:VEVENT
 SUMMARY:$? · Velvet Room YYC: Y2K Saturday · Dec 12
 DTSTART:20261213T040000Z
 DTEND:20261213T080000Z
-DTSTAMP:20261116T032902Z
-UID:b0ebbce0da7c623bdb52@eventer
+DTSTAMP:20261116T230542Z
+UID:bb193b81ff04f50e2727@eventer
 SEQUENCE:30599
 DESCRIPTION:Genres: hiphop\nEventer score: 55/100\nPromoter: Velvet Room Y
  YC\nTickets: https://velvetroomyyc.ca/calgary-night-clubs-y2k-saturday/
@@ -172,8 +298,8 @@ BEGIN:VEVENT
 SUMMARY:Free · Commonwealth Bar & Stage: World Famous Fridays · Dec 18
 DTSTART:20261219T040000Z
 DTEND:20261219T080000Z
-DTSTAMP:20261116T032902Z
-UID:46dc6e97bbb74dce8f1d@eventer
+DTSTAMP:20261116T230542Z
+UID:dd5026d4f80593aaa38d@eventer
 SEQUENCE:25100
 DESCRIPTION:Genres: hiphop\nEventer score: 65/100\nPromoter: Commonwealth 
  Bar & Stage\nTickets: https://www.commonwealthbar.ca/events
@@ -185,8 +311,8 @@ BEGIN:VEVENT
 SUMMARY:$? · Broken City: Natural Selection · Dec 19
 DTSTART:20261220T040000Z
 DTEND:20261220T080000Z
-DTSTAMP:20261116T032902Z
-UID:936ad90e1e6403b3c450@eventer
+DTSTAMP:20261116T230542Z
+UID:e82deb7e6652ca11ea43@eventer
 SEQUENCE:93221
 DESCRIPTION:Genres: hiphop\nEventer score: 55/100\nPromoter: Broken City\n
  Tickets: https://brokencity.ca/wp/weekly-events/
@@ -198,8 +324,8 @@ BEGIN:VEVENT
 SUMMARY:$? · Velvet Room YYC: Y2K Saturday · Dec 19
 DTSTART:20261220T040000Z
 DTEND:20261220T080000Z
-DTSTAMP:20261116T032902Z
-UID:c2462c0f1689f348662d@eventer
+DTSTAMP:20261116T230542Z
+UID:3a13159a0ecf7dd64901@eventer
 SEQUENCE:84401
 DESCRIPTION:Genres: hiphop\nEventer score: 55/100\nPromoter: Velvet Room Y
  YC\nTickets: https://velvetroomyyc.ca/calgary-night-clubs-y2k-saturday/
@@ -211,8 +337,8 @@ BEGIN:VEVENT
 SUMMARY:Free · Commonwealth Bar & Stage: World Famous Fridays · Dec 25
 DTSTART:20261226T040000Z
 DTEND:20261226T080000Z
-DTSTAMP:20261116T032902Z
-UID:4d202941c546de642194@eventer
+DTSTAMP:20261116T230542Z
+UID:8a6417b6c0877e78fd8f@eventer
 SEQUENCE:44149
 DESCRIPTION:Genres: hiphop\nEventer score: 65/100\nPromoter: Commonwealth 
  Bar & Stage\nTickets: https://www.commonwealthbar.ca/events
@@ -224,8 +350,8 @@ BEGIN:VEVENT
 SUMMARY:$? · Broken City: Natural Selection · Dec 26
 DTSTART:20261227T040000Z
 DTEND:20261227T080000Z
-DTSTAMP:20261116T032902Z
-UID:a1d05be5962eb92446c9@eventer
+DTSTAMP:20261116T230542Z
+UID:307748df55d91a54044f@eventer
 SEQUENCE:24183
 DESCRIPTION:Genres: hiphop\nEventer score: 55/100\nPromoter: Broken City\n
  Tickets: https://brokencity.ca/wp/weekly-events/
@@ -237,8 +363,8 @@ BEGIN:VEVENT
 SUMMARY:$? · Velvet Room YYC: Y2K Saturday · Dec 26
 DTSTART:20261227T040000Z
 DTEND:20261227T080000Z
-DTSTAMP:20261116T032902Z
-UID:f2187f260c2347e5ddaa@eventer
+DTSTAMP:20261116T230542Z
+UID:e66ec0305c126477234f@eventer
 SEQUENCE:98091
 DESCRIPTION:Genres: hiphop\nEventer score: 55/100\nPromoter: Velvet Room Y
  YC\nTickets: https://velvetroomyyc.ca/calgary-night-clubs-y2k-saturday/
@@ -250,8 +376,8 @@ BEGIN:VEVENT
 SUMMARY:Free · Commonwealth Bar & Stage: World Famous Fridays · Jan 01
 DTSTART:20270102T040000Z
 DTEND:20270102T080000Z
-DTSTAMP:20261116T032902Z
-UID:85e9c744c600ecb16e05@eventer
+DTSTAMP:20261116T230542Z
+UID:dcdf452632ba57c553b1@eventer
 SEQUENCE:11735
 DESCRIPTION:Genres: hiphop\nEventer score: 65/100\nPromoter: Commonwealth 
  Bar & Stage\nTickets: https://www.commonwealthbar.ca/events
@@ -263,8 +389,8 @@ BEGIN:VEVENT
 SUMMARY:$? · Broken City: Natural Selection · Jan 02
 DTSTART:20270103T040000Z
 DTEND:20270103T080000Z
-DTSTAMP:20261116T032902Z
-UID:a7e8186ea98161e5a991@eventer
+DTSTAMP:20261116T230542Z
+UID:d5b03e091c8e8395ca60@eventer
 SEQUENCE:79955
 DESCRIPTION:Genres: hiphop\nEventer score: 55/100\nPromoter: Broken City\n
  Tickets: https://brokencity.ca/wp/weekly-events/
@@ -276,8 +402,8 @@ BEGIN:VEVENT
 SUMMARY:$? · Velvet Room YYC: Y2K Saturday · Jan 02
 DTSTART:20270103T040000Z
 DTEND:20270103T080000Z
-DTSTAMP:20261116T032902Z
-UID:eb3b9b4224b7095cf0c2@eventer
+DTSTAMP:20261116T230542Z
+UID:42535afdc61fd03de703@eventer
 SEQUENCE:74629
 DESCRIPTION:Genres: hiphop\nEventer score: 55/100\nPromoter: Velvet Room Y
  YC\nTickets: https://velvetroomyyc.ca/calgary-night-clubs-y2k-saturday/
@@ -289,8 +415,8 @@ BEGIN:VEVENT
 SUMMARY:Free · Commonwealth Bar & Stage: World Famous Fridays · Jan 08
 DTSTART:20270109T040000Z
 DTEND:20270109T080000Z
-DTSTAMP:20261116T032902Z
-UID:75d6c5888eb656fa5bf6@eventer
+DTSTAMP:20261116T230542Z
+UID:b9274d9a7f3789f32ea1@eventer
 SEQUENCE:55785
 DESCRIPTION:Genres: hiphop\nEventer score: 65/100\nPromoter: Commonwealth 
  Bar & Stage\nTickets: https://www.commonwealthbar.ca/events
@@ -302,8 +428,8 @@ BEGIN:VEVENT
 SUMMARY:$? · Broken City: Natural Selection · Jan 09
 DTSTART:20270110T040000Z
 DTEND:20270110T080000Z
-DTSTAMP:20261116T032902Z
-UID:32796581a3e293ef3678@eventer
+DTSTAMP:20261116T230542Z
+UID:28056438a5d87a4bd0dc@eventer
 SEQUENCE:44578
 DESCRIPTION:Genres: hiphop\nEventer score: 55/100\nPromoter: Broken City\n
  Tickets: https://brokencity.ca/wp/weekly-events/
@@ -315,8 +441,8 @@ BEGIN:VEVENT
 SUMMARY:$? · Velvet Room YYC: Y2K Saturday · Jan 09
 DTSTART:20270110T040000Z
 DTEND:20270110T080000Z
-DTSTAMP:20261116T032902Z
-UID:476ca62cec299fbaa07a@eventer
+DTSTAMP:20261116T230542Z
+UID:be4fdf8f437afcadbc00@eventer
 SEQUENCE:44354
 DESCRIPTION:Genres: hiphop\nEventer score: 55/100\nPromoter: Velvet Room Y
  YC\nTickets: https://velvetroomyyc.ca/calgary-night-clubs-y2k-saturday/
