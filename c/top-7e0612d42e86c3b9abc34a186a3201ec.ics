@@ -13,7 +13,7 @@ BEGIN:VEVENT
 SUMMARY:$? · Beehive Presents: CARTE BLANCHE • 11.14.26
 DTSTART:20261115T030000Z
 DTEND:20261115T070000Z
-DTSTAMP:20261115T234757Z
+DTSTAMP:20261116T032902Z
 UID:3970ec3ca31fcdede185@eventer
 SEQUENCE:74025
 DESCRIPTION:Genres: house\nEventer score: 80/100\nPromoter: Beehive Presen
@@ -23,10 +23,23 @@ STATUS:CONFIRMED
 URL:https://www.beehivepresents.com/events/cb111426
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:$? · Beehive Presents: CARTE BLANCHE • 11.14.26
+DTSTART:20261115T030000Z
+DTEND:20261115T070000Z
+DTSTAMP:20261116T032902Z
+UID:a73fb65adb02168431bf@eventer
+SEQUENCE:99036
+DESCRIPTION:Genres: house\nEventer score: 80/100\nPromoter: Beehive Presen
+ ts\nTickets: https://www.beehivepresents.com/events/cb111426
+LOCATION:Sub Rosa
+STATUS:CONFIRMED
+URL:https://www.beehivepresents.com/events/cb111426
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:$? · Boodang: Deathpact – Edmonton
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-DTSTAMP:20261115T234757Z
+DTSTAMP:20261116T032902Z
 UID:0142b30c868beee8ead7@eventer
 SEQUENCE:47223
 DESCRIPTION:Genres: bass\nEventer score: 65/100\nPromoter: Boodang\nTicket
@@ -39,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:$? · Boodang: Gammer- Edmonton
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
-DTSTAMP:20261115T234757Z
+DTSTAMP:20261116T032902Z
 UID:f5a98931571079e37eb9@eventer
 SEQUENCE:87627
 DESCRIPTION:Genres: bass\nEventer score: 65/100\nPromoter: Boodang\nTicket
@@ -49,10 +62,26 @@ STATUS:CONFIRMED
 URL:http://www.showpass.com/gamedm
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free · Commonwealth Bar & Stage: GTA 6 Release Party @ World Famo
+ us Fridays
+DTSTART:20261120T060000Z
+DTEND:20261120T100000Z
+DTSTAMP:20261116T032902Z
+UID:0df4eb80ebdcb3af240c@eventer
+SEQUENCE:81773
+DESCRIPTION:Genres: hiphop\nEventer score: 65/100\nPromoter: Commonwealth 
+ Bar & Stage\nTickets: https://www.commonwealthbar.ca/events/gta-6-release-
+ party-world-famous-fridays
+LOCATION:Commonwealth Bar & Stage\, 731 10 Ave SW\, Calgary\, AB
+STATUS:CONFIRMED
+URL:https://www.commonwealthbar.ca/events/gta-6-release-party-world-famous
+ -fridays
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:$59.71-86.94 · Beehive Presents: ORBITAL • 11.20.26
 DTSTART:20261121T030000Z
 DTEND:20261121T080000Z
-DTSTAMP:20261115T234757Z
+DTSTAMP:20261116T032902Z
 UID:5e26d1bdb10610e8f355@eventer
 SEQUENCE:49700
 DESCRIPTION:Genres: house\, techno\nEventer score: 100/100\nPromoter: Beeh
@@ -62,11 +91,24 @@ STATUS:CONFIRMED
 URL:https://www.beehivepresents.com/events/orbital2
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:$59.71-86.94 · Beehive Presents: ORBITAL • 11.20.26
+DTSTART:20261121T030000Z
+DTEND:20261121T080000Z
+DTSTAMP:20261116T032902Z
+UID:598018c5023ee967abd9@eventer
+SEQUENCE:22319
+DESCRIPTION:Genres: house\, techno\nEventer score: 100/100\nPromoter: Beeh
+ ive Presents\nTickets: https://www.beehivepresents.com/events/orbital2
+LOCATION:Calgary Tower\, 101 9 Ave SW\, Calgary\, Alberta\, T2P 1J9
+STATUS:CONFIRMED
+URL:https://www.beehivepresents.com/events/orbital2
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:$59.71-86.94 · BEEHIVE PRESENTS: ORBITAL 2.0 • 11.20.26 • CAL
  GARY TOWER
 DTSTART:20261121T030000Z
 DTEND:20261121T080000Z
-DTSTAMP:20261115T234757Z
+DTSTAMP:20261116T032902Z
 UID:db74a9335e38a132a288@eventer
 SEQUENCE:98537
 DESCRIPTION:** THIS EVENT HAS BEEN CANCELLED OR REMOVED **\nGenres: house
@@ -81,25 +123,39 @@ BEGIN:VEVENT
 SUMMARY:$? · Beehive Presents: CARTE BLANCHE • 11.21.26
 DTSTART:20261122T020000Z
 DTEND:20261122T060000Z
-DTSTAMP:20261115T234757Z
-UID:da5b4e301dc99d3ef008@eventer
-SEQUENCE:76046
+DTSTAMP:20261116T032902Z
+UID:aba7c3003285d3f5dd6e@eventer
+SEQUENCE:53320
 DESCRIPTION:Genres: house\nEventer score: 80/100\nPromoter: Beehive Presen
  ts\nTickets: https://www.beehivepresents.com/events/cb112126
-LOCATION:Sub Rosa (map)
+LOCATION:Sub Rosa
 STATUS:CONFIRMED
+URL:https://www.beehivepresents.com/events/cb112126
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:$? · Beehive Presents: CARTE BLANCHE • 11.21.26
+DTSTART:20261122T020000Z
+DTEND:20261122T060000Z
+DTSTAMP:20261116T032902Z
+UID:da5b4e301dc99d3ef008@eventer
+SEQUENCE:76046
+DESCRIPTION:** THIS EVENT HAS BEEN CANCELLED OR REMOVED **\nGenres: house
+ \nEventer score: 80/100\nPromoter: Beehive Presents\nTickets: https://www.
+ beehivepresents.com/events/cb112126
+LOCATION:Sub Rosa (map)
+STATUS:CANCELLED
 URL:https://www.beehivepresents.com/events/cb112126
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:$? · Boodang: Infekt – Calgary
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
-DTSTAMP:20261115T234757Z
+DTSTAMP:20261116T032902Z
 UID:1124d3f511c62a2d2b86@eventer
-SEQUENCE:6090
+SEQUENCE:67190
 DESCRIPTION:Genres: bass\nEventer score: 65/100\nPromoter: Boodang\nTicket
  s: https://www.showpass.com/icgy
-LOCATION:@ The Palace Theatre
+LOCATION:The Palace Theatre
 STATUS:CONFIRMED
 URL:https://www.showpass.com/icgy
 END:VEVENT
@@ -107,20 +163,47 @@ BEGIN:VEVENT
 SUMMARY:$? · Beehive Presents: HABSTRAKT + NOSTALGIX • 11.27.26
 DTSTART:20261128T030000Z
 DTEND:20261128T070000Z
-DTSTAMP:20261115T234757Z
-UID:e1532325a67dbb3a79bf@eventer
-SEQUENCE:96064
+DTSTAMP:20261116T032902Z
+UID:4bdb9ab3c7f9992f317e@eventer
+SEQUENCE:28465
 DESCRIPTION:Genres: house\nEventer score: 80/100\nPromoter: Beehive Presen
  ts\nTickets: https://www.beehivepresents.com/events/ss112726
-LOCATION:Arrowhead Calgary (map)
+LOCATION:Arrowhead Calgary
 STATUS:CONFIRMED
 URL:https://www.beehivepresents.com/events/ss112726
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:$? · Beehive Presents: HABSTRAKT + NOSTALGIX • 11.27.26
+DTSTART:20261128T030000Z
+DTEND:20261128T070000Z
+DTSTAMP:20261116T032902Z
+UID:e1532325a67dbb3a79bf@eventer
+SEQUENCE:96064
+DESCRIPTION:** THIS EVENT HAS BEEN CANCELLED OR REMOVED **\nGenres: house
+ \nEventer score: 80/100\nPromoter: Beehive Presents\nTickets: https://www.
+ beehivepresents.com/events/ss112726
+LOCATION:Arrowhead Calgary (map)
+STATUS:CANCELLED
+URL:https://www.beehivepresents.com/events/ss112726
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free · Commonwealth Bar & Stage: World Famous Fridays · Nov 27
+DTSTART:20261128T040000Z
+DTEND:20261128T080000Z
+DTSTAMP:20261116T032902Z
+UID:7b42c7ef1234e42343cc@eventer
+SEQUENCE:23112
+DESCRIPTION:Genres: hiphop\nEventer score: 65/100\nPromoter: Commonwealth 
+ Bar & Stage\nTickets: https://www.commonwealthbar.ca/events
+LOCATION:Commonwealth Bar & Stage\, 731 10 Ave SW\, Calgary\, AB
+STATUS:CONFIRMED
+URL:https://www.commonwealthbar.ca/events
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:$? · Boodang: Infekt – Edmonton
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261115T234757Z
+DTSTAMP:20261116T032902Z
 UID:f307078c33fe8209f8ec@eventer
 SEQUENCE:93156
 DESCRIPTION:Genres: bass\nEventer score: 65/100\nPromoter: Boodang\nTicket
@@ -133,7 +216,7 @@ BEGIN:VEVENT
 SUMMARY:$? · Boodang: Will Sparks – Edmonton
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261115T234757Z
+DTSTAMP:20261116T032902Z
 UID:55d8ed3d790c766cf08a@eventer
 SEQUENCE:1684
 DESCRIPTION:Genres: bass\nEventer score: 65/100\nPromoter: Boodang\nTicket
@@ -146,25 +229,52 @@ BEGIN:VEVENT
 SUMMARY:$? · Beehive Presents: CARTE BLANCHE • 11.28.26
 DTSTART:20261129T030000Z
 DTEND:20261129T070000Z
-DTSTAMP:20261115T234757Z
-UID:8a78446ac5605d5da7b7@eventer
-SEQUENCE:57239
+DTSTAMP:20261116T032902Z
+UID:c05989d06e63734bad51@eventer
+SEQUENCE:59007
 DESCRIPTION:Genres: house\nEventer score: 80/100\nPromoter: Beehive Presen
  ts\nTickets: https://www.beehivepresents.com/events/cb112826
-LOCATION:Sub Rosa (map)
+LOCATION:Sub Rosa
 STATUS:CONFIRMED
 URL:https://www.beehivepresents.com/events/cb112826
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:$? · Beehive Presents: CARTE BLANCHE • 11.28.26
+DTSTART:20261129T030000Z
+DTEND:20261129T070000Z
+DTSTAMP:20261116T032902Z
+UID:8a78446ac5605d5da7b7@eventer
+SEQUENCE:57239
+DESCRIPTION:** THIS EVENT HAS BEEN CANCELLED OR REMOVED **\nGenres: house
+ \nEventer score: 80/100\nPromoter: Beehive Presents\nTickets: https://www.
+ beehivepresents.com/events/cb112826
+LOCATION:Sub Rosa (map)
+STATUS:CANCELLED
+URL:https://www.beehivepresents.com/events/cb112826
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Free · Commonwealth Bar & Stage: World Famous Fridays · Dec 04
+DTSTART:20261205T040000Z
+DTEND:20261205T080000Z
+DTSTAMP:20261116T032902Z
+UID:6e928981f7d8c8d4d3e4@eventer
+SEQUENCE:25965
+DESCRIPTION:Genres: hiphop\nEventer score: 65/100\nPromoter: Commonwealth 
+ Bar & Stage\nTickets: https://www.commonwealthbar.ca/events
+LOCATION:Commonwealth Bar & Stage\, 731 10 Ave SW\, Calgary\, AB
+STATUS:CONFIRMED
+URL:https://www.commonwealthbar.ca/events
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:$? · Boodang: 11th Annual Funk The Halls- Calgary
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
-DTSTAMP:20261115T234757Z
+DTSTAMP:20261116T032902Z
 UID:8734444675a29de64e6f@eventer
-SEQUENCE:17208
+SEQUENCE:7730
 DESCRIPTION:Genres: bass\nEventer score: 65/100\nPromoter: Boodang\nTicket
  s: http://www.showpass.com/funk-the-halls-xi
-LOCATION:@ The Palace Theatre
+LOCATION:The Palace Theatre
 STATUS:CONFIRMED
 URL:http://www.showpass.com/funk-the-halls-xi
 END:VEVENT
@@ -173,7 +283,7 @@ SUMMARY:$? · Dojo Entertainment: 5th Annual Dojo Christmas Shaker @ Rumur
   || Friday\, Dec 11 FREE BEFORE 10PM
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20261115T234757Z
+DTSTAMP:20261116T032902Z
 UID:7b6745243906f6ec04a5@eventer
 SEQUENCE:19354
 DESCRIPTION:Genres: house\, ukg\, bass\nEventer score: 95/100\nPromoter: D
@@ -189,12 +299,12 @@ BEGIN:VEVENT
 SUMMARY:$? · Boodang: DRINKURWATER – Calgary
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20261115T234757Z
+DTSTAMP:20261116T032902Z
 UID:e9ffe5f5735b3074b78a@eventer
-SEQUENCE:90207
+SEQUENCE:42525
 DESCRIPTION:Genres: bass\nEventer score: 65/100\nPromoter: Boodang\nTicket
  s: https://www.showpass.com/drink
-LOCATION:@ The Palace Theatre
+LOCATION:The Palace Theatre
 STATUS:CONFIRMED
 URL:https://www.showpass.com/drink
 END:VEVENT
@@ -202,7 +312,7 @@ BEGIN:VEVENT
 SUMMARY:$? · Boodang: Nifra – Edmonton
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20261115T234757Z
+DTSTAMP:20261116T032902Z
 UID:6110a2f076e3109c6b93@eventer
 SEQUENCE:32293
 DESCRIPTION:Genres: bass\nEventer score: 65/100\nPromoter: Boodang\nTicket
@@ -212,10 +322,23 @@ STATUS:CONFIRMED
 URL:http://www.showpass.com/nifra
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free · Commonwealth Bar & Stage: World Famous Fridays · Dec 11
+DTSTART:20261212T040000Z
+DTEND:20261212T080000Z
+DTSTAMP:20261116T032902Z
+UID:f8a0b66e6cbe295b7eda@eventer
+SEQUENCE:98357
+DESCRIPTION:Genres: hiphop\nEventer score: 65/100\nPromoter: Commonwealth 
+ Bar & Stage\nTickets: https://www.commonwealthbar.ca/events
+LOCATION:Commonwealth Bar & Stage\, 731 10 Ave SW\, Calgary\, AB
+STATUS:CONFIRMED
+URL:https://www.commonwealthbar.ca/events
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:$? · Boodang: Whipped Cream – Edmonton
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261115T234757Z
+DTSTAMP:20261116T032902Z
 UID:1c6453bf5af5cd081e9c@eventer
 SEQUENCE:16500
 DESCRIPTION:Genres: bass\nEventer score: 65/100\nPromoter: Boodang\nTicket
@@ -228,12 +351,12 @@ BEGIN:VEVENT
 SUMMARY:$? · Boodang: Hedex- Calgary
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261115T234757Z
+DTSTAMP:20261116T032902Z
 UID:6c1c14d3782838d1d64a@eventer
-SEQUENCE:47802
+SEQUENCE:85891
 DESCRIPTION:Genres: bass\nEventer score: 65/100\nPromoter: Boodang\nTicket
  s: http://www.showpass.com/hedexcgy
-LOCATION:@ The Palace Theatre
+LOCATION:The Palace Theatre
 STATUS:CONFIRMED
 URL:http://www.showpass.com/hedexcgy
 END:VEVENT
@@ -241,12 +364,12 @@ BEGIN:VEVENT
 SUMMARY:$? · Boodang: NIIKO X SWAE – Calgary
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-DTSTAMP:20261115T234757Z
+DTSTAMP:20261116T032902Z
 UID:f90d991ea7891df3041c@eventer
-SEQUENCE:36004
+SEQUENCE:92382
 DESCRIPTION:Genres: bass\nEventer score: 65/100\nPromoter: Boodang\nTicket
  s: https://www.showpass.com/nscgy
-LOCATION:@ The Palace Theatre
+LOCATION:The Palace Theatre
 STATUS:CONFIRMED
 URL:https://www.showpass.com/nscgy
 END:VEVENT
@@ -254,7 +377,7 @@ BEGIN:VEVENT
 SUMMARY:$? · Boodang: Jkyl & Hyde – Edmonton
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
-DTSTAMP:20261115T234757Z
+DTSTAMP:20261116T032902Z
 UID:5bec806ff6e137bf5249@eventer
 SEQUENCE:34411
 DESCRIPTION:Genres: bass\nEventer score: 65/100\nPromoter: Boodang\nTicket
@@ -264,10 +387,23 @@ STATUS:CONFIRMED
 URL:http://www.showpass.com/jh
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free · Commonwealth Bar & Stage: World Famous Fridays · Dec 18
+DTSTART:20261219T040000Z
+DTEND:20261219T080000Z
+DTSTAMP:20261116T032902Z
+UID:46dc6e97bbb74dce8f1d@eventer
+SEQUENCE:25100
+DESCRIPTION:Genres: hiphop\nEventer score: 65/100\nPromoter: Commonwealth 
+ Bar & Stage\nTickets: https://www.commonwealthbar.ca/events
+LOCATION:Commonwealth Bar & Stage\, 731 10 Ave SW\, Calgary\, AB
+STATUS:CONFIRMED
+URL:https://www.commonwealthbar.ca/events
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:$? · Boodang: NIIKO X SWAE – Edmonton
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-DTSTAMP:20261115T234757Z
+DTSTAMP:20261116T032902Z
 UID:2b707e5858d8c5b471a9@eventer
 SEQUENCE:79406
 DESCRIPTION:Genres: bass\nEventer score: 65/100\nPromoter: Boodang\nTicket
@@ -277,10 +413,23 @@ STATUS:CONFIRMED
 URL:http://www.showpass.com/nsedm
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free · Commonwealth Bar & Stage: World Famous Fridays · Dec 25
+DTSTART:20261226T040000Z
+DTEND:20261226T080000Z
+DTSTAMP:20261116T032902Z
+UID:4d202941c546de642194@eventer
+SEQUENCE:44149
+DESCRIPTION:Genres: hiphop\nEventer score: 65/100\nPromoter: Commonwealth 
+ Bar & Stage\nTickets: https://www.commonwealthbar.ca/events
+LOCATION:Commonwealth Bar & Stage\, 731 10 Ave SW\, Calgary\, AB
+STATUS:CONFIRMED
+URL:https://www.commonwealthbar.ca/events
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:$? · Boodang: Sub Zero Project – Edmonton
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
-DTSTAMP:20261115T234757Z
+DTSTAMP:20261116T032902Z
 UID:dd47f75be3a86683e96d@eventer
 SEQUENCE:58484
 DESCRIPTION:Genres: bass\nEventer score: 65/100\nPromoter: Boodang\nTicket
@@ -293,7 +442,7 @@ BEGIN:VEVENT
 SUMMARY:$? · Boodang: Code Black – NYE – Edmonton
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261115T234757Z
+DTSTAMP:20261116T032902Z
 UID:ebf50b0c512b79fc0252@eventer
 SEQUENCE:6174
 DESCRIPTION:Genres: bass\nEventer score: 65/100\nPromoter: Boodang\nTicket
@@ -306,7 +455,7 @@ BEGIN:VEVENT
 SUMMARY:$? · Boodang: NYE 2026 – Edmonton
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
-DTSTAMP:20261115T234757Z
+DTSTAMP:20261116T032902Z
 UID:43d4efc6b36ce08deb53@eventer
 SEQUENCE:74790
 DESCRIPTION:Genres: bass\nEventer score: 65/100\nPromoter: Boodang\nTicket
@@ -316,15 +465,28 @@ STATUS:CONFIRMED
 URL:https://boodang.com/event/nye9910/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free · Commonwealth Bar & Stage: World Famous Fridays · Jan 01
+DTSTART:20270102T040000Z
+DTEND:20270102T080000Z
+DTSTAMP:20261116T032902Z
+UID:85e9c744c600ecb16e05@eventer
+SEQUENCE:11735
+DESCRIPTION:Genres: hiphop\nEventer score: 65/100\nPromoter: Commonwealth 
+ Bar & Stage\nTickets: https://www.commonwealthbar.ca/events
+LOCATION:Commonwealth Bar & Stage\, 731 10 Ave SW\, Calgary\, AB
+STATUS:CONFIRMED
+URL:https://www.commonwealthbar.ca/events
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:$? · Boodang: Nghtmre – Calgary
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
-DTSTAMP:20261115T234757Z
+DTSTAMP:20261116T032902Z
 UID:24ab23edee3d8ab3376f@eventer
-SEQUENCE:64086
+SEQUENCE:86704
 DESCRIPTION:Genres: bass\nEventer score: 65/100\nPromoter: Boodang\nTicket
  s: https://www.showpass.com/nghtmrecgy
-LOCATION:@ The Palace Theatre
+LOCATION:The Palace Theatre
 STATUS:CONFIRMED
 URL:https://www.showpass.com/nghtmrecgy
 END:VEVENT
@@ -332,7 +494,7 @@ BEGIN:VEVENT
 SUMMARY:$? · Boodang: Dimatik – Edmonton
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
-DTSTAMP:20261115T234757Z
+DTSTAMP:20261116T032902Z
 UID:fda2fe187030b3ea12d2@eventer
 SEQUENCE:71728
 DESCRIPTION:Genres: bass\nEventer score: 65/100\nPromoter: Boodang\nTicket
@@ -342,15 +504,28 @@ STATUS:CONFIRMED
 URL:https://www.showpass.com/dimatikedm
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Free · Commonwealth Bar & Stage: World Famous Fridays · Jan 08
+DTSTART:20270109T040000Z
+DTEND:20270109T080000Z
+DTSTAMP:20261116T032902Z
+UID:75d6c5888eb656fa5bf6@eventer
+SEQUENCE:55785
+DESCRIPTION:Genres: hiphop\nEventer score: 65/100\nPromoter: Commonwealth 
+ Bar & Stage\nTickets: https://www.commonwealthbar.ca/events
+LOCATION:Commonwealth Bar & Stage\, 731 10 Ave SW\, Calgary\, AB
+STATUS:CONFIRMED
+URL:https://www.commonwealthbar.ca/events
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:$? · Boodang: Dimatik – Calgary
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
-DTSTAMP:20261115T234757Z
+DTSTAMP:20261116T032902Z
 UID:ef50b1e72a3234e39069@eventer
-SEQUENCE:71509
+SEQUENCE:70352
 DESCRIPTION:Genres: bass\nEventer score: 65/100\nPromoter: Boodang\nTicket
  s: https://www.showpass.com/dimatikcgy
-LOCATION:@ The Palace Theatre
+LOCATION:The Palace Theatre
 STATUS:CONFIRMED
 URL:https://www.showpass.com/dimatikcgy
 END:VEVENT
@@ -358,7 +533,7 @@ BEGIN:VEVENT
 SUMMARY:$? · Boodang: Kompany – Edmonton
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
-DTSTAMP:20261115T234757Z
+DTSTAMP:20261116T032902Z
 UID:91cb43e082fecadbd626@eventer
 SEQUENCE:36140
 DESCRIPTION:Genres: bass\nEventer score: 65/100\nPromoter: Boodang\nTicket
@@ -371,12 +546,12 @@ BEGIN:VEVENT
 SUMMARY:$? · Boodang: Kompany – Calgary
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
-DTSTAMP:20261115T234757Z
+DTSTAMP:20261116T032902Z
 UID:e54efe9409f39a6651a6@eventer
-SEQUENCE:69609
+SEQUENCE:32945
 DESCRIPTION:Genres: bass\nEventer score: 65/100\nPromoter: Boodang\nTicket
  s: https://www.showpass.com/kompanycgy
-LOCATION:@ The Palace Theatre
+LOCATION:The Palace Theatre
 STATUS:CONFIRMED
 URL:https://www.showpass.com/kompanycgy
 END:VEVENT
@@ -384,12 +559,12 @@ BEGIN:VEVENT
 SUMMARY:$? · Boodang: Henry Fong – Calgary
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
-DTSTAMP:20261115T234757Z
+DTSTAMP:20261116T032902Z
 UID:b412cc0d726d664db68d@eventer
-SEQUENCE:75860
+SEQUENCE:77857
 DESCRIPTION:Genres: bass\nEventer score: 65/100\nPromoter: Boodang\nTicket
  s: https://www.showpass.com/henry
-LOCATION:@ The Palace Theatre
+LOCATION:The Palace Theatre
 STATUS:CONFIRMED
 URL:https://www.showpass.com/henry
 END:VEVENT
@@ -397,7 +572,7 @@ BEGIN:VEVENT
 SUMMARY:$? · Boodang: Kayzo & Hhunter – Edmonton
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
-DTSTAMP:20261115T234757Z
+DTSTAMP:20261116T032902Z
 UID:b002f50efc69f511a81c@eventer
 SEQUENCE:91500
 DESCRIPTION:Genres: bass\nEventer score: 65/100\nPromoter: Boodang\nTicket
@@ -410,12 +585,12 @@ BEGIN:VEVENT
 SUMMARY:$? · Boodang: Samplifire – Calgary
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
-DTSTAMP:20261115T234757Z
+DTSTAMP:20261116T032902Z
 UID:8492927af1c7df54c445@eventer
-SEQUENCE:16341
+SEQUENCE:67496
 DESCRIPTION:Genres: bass\nEventer score: 65/100\nPromoter: Boodang\nTicket
  s: https://www.showpass.com/samplifirecgy
-LOCATION:@ The Palace Theatre
+LOCATION:The Palace Theatre
 STATUS:CONFIRMED
 URL:https://www.showpass.com/samplifirecgy
 END:VEVENT
@@ -423,12 +598,12 @@ BEGIN:VEVENT
 SUMMARY:$? · Boodang: Kayzo & Hhunter – Calgary
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
-DTSTAMP:20261115T234757Z
+DTSTAMP:20261116T032902Z
 UID:6d2ac4753f555d539606@eventer
-SEQUENCE:21474
+SEQUENCE:43863
 DESCRIPTION:Genres: bass\nEventer score: 65/100\nPromoter: Boodang\nTicket
  s: https://www.showpass.com/kayzocgy
-LOCATION:@ The Palace Theatre
+LOCATION:The Palace Theatre
 STATUS:CONFIRMED
 URL:https://www.showpass.com/kayzocgy
 END:VEVENT
@@ -436,7 +611,7 @@ BEGIN:VEVENT
 SUMMARY:$? · Boodang: Samplifire – Edmonton
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
-DTSTAMP:20261115T234757Z
+DTSTAMP:20261116T032902Z
 UID:9fdb48e1f621ba0e3231@eventer
 SEQUENCE:93829
 DESCRIPTION:Genres: bass\nEventer score: 65/100\nPromoter: Boodang\nTicket
@@ -449,25 +624,39 @@ BEGIN:VEVENT
 SUMMARY:$? · Beehive Presents: TONY ROMERA • 01.30.27
 DTSTART:20270131T020000Z
 DTEND:20270131T060000Z
-DTSTAMP:20261115T234757Z
-UID:6285de6e39e8ab668a3d@eventer
-SEQUENCE:98217
+DTSTAMP:20261116T032902Z
+UID:590df61292e288557d27@eventer
+SEQUENCE:41474
 DESCRIPTION:Genres: house\nEventer score: 80/100\nPromoter: Beehive Presen
  ts\nTickets: https://www.beehivepresents.com/events/cb013027
-LOCATION:Sub Rosa (map)
+LOCATION:Sub Rosa
 STATUS:CONFIRMED
+URL:https://www.beehivepresents.com/events/cb013027
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:$? · Beehive Presents: TONY ROMERA • 01.30.27
+DTSTART:20270131T020000Z
+DTEND:20270131T060000Z
+DTSTAMP:20261116T032902Z
+UID:6285de6e39e8ab668a3d@eventer
+SEQUENCE:98217
+DESCRIPTION:** THIS EVENT HAS BEEN CANCELLED OR REMOVED **\nGenres: house
+ \nEventer score: 80/100\nPromoter: Beehive Presents\nTickets: https://www.
+ beehivepresents.com/events/cb013027
+LOCATION:Sub Rosa (map)
+STATUS:CANCELLED
 URL:https://www.beehivepresents.com/events/cb013027
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:$? · Boodang: Heyz – Calgary
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
-DTSTAMP:20261115T234757Z
+DTSTAMP:20261116T032902Z
 UID:807e27599e37472a19ac@eventer
-SEQUENCE:26587
+SEQUENCE:96072
 DESCRIPTION:Genres: bass\nEventer score: 65/100\nPromoter: Boodang\nTicket
  s: https://www.showpass.com/heyz
-LOCATION:@ The Palace Theatre
+LOCATION:The Palace Theatre
 STATUS:CONFIRMED
 URL:https://www.showpass.com/heyz
 END:VEVENT
@@ -475,7 +664,7 @@ BEGIN:VEVENT
 SUMMARY:$? · Boodang: Sippy – Edmonton
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270220
-DTSTAMP:20261115T234757Z
+DTSTAMP:20261116T032902Z
 UID:b2acf84b8d4bae2a1e17@eventer
 SEQUENCE:96479
 DESCRIPTION:Genres: bass\nEventer score: 65/100\nPromoter: Boodang\nTicket
@@ -488,12 +677,12 @@ BEGIN:VEVENT
 SUMMARY:$? · Boodang: Capochino – Calgary
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270227
-DTSTAMP:20261115T234757Z
+DTSTAMP:20261116T032902Z
 UID:a488529e5f57d3e4d44d@eventer
-SEQUENCE:55878
+SEQUENCE:42170
 DESCRIPTION:Genres: bass\nEventer score: 65/100\nPromoter: Boodang\nTicket
  s: https://www.showpass.com/capocgy
-LOCATION:@ The Palace Theatre
+LOCATION:The Palace Theatre
 STATUS:CONFIRMED
 URL:https://www.showpass.com/capocgy
 END:VEVENT
