@@ -9,4 +9,91 @@ X-WR-CALNAME:Eventer · D&B
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
 X-WR-TIMEZONE:America/Edmonton
+BEGIN:VEVENT
+SUMMARY:$? · Velvet Room YYC: Weekly (unconfirmed) · Tuesday Takeover ·
+  Nov 17
+DTSTART:20261118T030000Z
+DTEND:20261118T070000Z
+DTSTAMP:20261117T001713Z
+UID:85b5fb63e06eeef643c4@eventer
+SEQUENCE:58334
+DESCRIPTION:Genres: dnb\, bass\nEventer score: 75/100\nPromoter: Velvet Ro
+ om YYC\nTickets: https://velvetroomyyc.ca/calgary-nightclub-tuesday-takeov
+ er/
+LOCATION:Velvet Room\, 628 8 Ave SW Unit B\, Calgary\, AB T2P 1G4
+STATUS:CONFIRMED
+URL:https://velvetroomyyc.ca/calgary-nightclub-tuesday-takeover/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:$? · Sub Rosa: Weekly (unconfirmed) · Sub Frequency Fridays · N
+ ov 20
+DTSTART:20261121T030000Z
+DTEND:20261121T070000Z
+DTSTAMP:20261117T001713Z
+UID:b1df93172207cdc6d87c@eventer
+SEQUENCE:31711
+DESCRIPTION:Genres: dnb\, hiphop\nEventer score: 75/100\nPromoter: Sub Ros
+ a\nTickets: https://www.subrosayyc.com/news/sub-frequency-fridays/
+LOCATION:Sub Rosa
+STATUS:CONFIRMED
+URL:https://www.subrosayyc.com/news/sub-frequency-fridays/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:$? · Velvet Room YYC: Weekly (unconfirmed) · Tuesday Takeover ·
+  Nov 24
+DTSTART:20261125T030000Z
+DTEND:20261125T070000Z
+DTSTAMP:20261117T001713Z
+UID:4cc23bd75a36604c06a9@eventer
+SEQUENCE:67553
+DESCRIPTION:Genres: dnb\, bass\nEventer score: 75/100\nPromoter: Velvet Ro
+ om YYC\nTickets: https://velvetroomyyc.ca/calgary-nightclub-tuesday-takeov
+ er/
+LOCATION:Velvet Room\, 628 8 Ave SW Unit B\, Calgary\, AB T2P 1G4
+STATUS:CONFIRMED
+URL:https://velvetroomyyc.ca/calgary-nightclub-tuesday-takeover/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:$? · Sub Rosa: Weekly (unconfirmed) · Sub Frequency Fridays · N
+ ov 27
+DTSTART:20261128T030000Z
+DTEND:20261128T070000Z
+DTSTAMP:20261117T001713Z
+UID:b10331faba4ed9aff692@eventer
+SEQUENCE:22949
+DESCRIPTION:Genres: dnb\, hiphop\nEventer score: 75/100\nPromoter: Sub Ros
+ a\nTickets: https://www.subrosayyc.com/news/sub-frequency-fridays/
+LOCATION:Sub Rosa
+STATUS:CONFIRMED
+URL:https://www.subrosayyc.com/news/sub-frequency-fridays/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:$? · Velvet Room YYC: Weekly (unconfirmed) · Tuesday Takeover ·
+  Dec 01
+DTSTART:20261202T030000Z
+DTEND:20261202T070000Z
+DTSTAMP:20261117T001713Z
+UID:5a69afad855b4d654f86@eventer
+SEQUENCE:61237
+DESCRIPTION:Genres: dnb\, bass\nEventer score: 75/100\nPromoter: Velvet Ro
+ om YYC\nTickets: https://velvetroomyyc.ca/calgary-nightclub-tuesday-takeov
+ er/
+LOCATION:Velvet Room\, 628 8 Ave SW Unit B\, Calgary\, AB T2P 1G4
+STATUS:CONFIRMED
+URL:https://velvetroomyyc.ca/calgary-nightclub-tuesday-takeover/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:$? · Sub Rosa: Weekly (unconfirmed) · Sub Frequency Fridays · D
+ ec 04
+DTSTART:20261205T030000Z
+DTEND:20261205T070000Z
+DTSTAMP:20261117T001713Z
+UID:52e6daad7cc4b845569d@eventer
+SEQUENCE:74637
+DESCRIPTION:Genres: dnb\, hiphop\nEventer score: 75/100\nPromoter: Sub Ros
+ a\nTickets: https://www.subrosayyc.com/news/sub-frequency-fridays/
+LOCATION:Sub Rosa
+STATUS:CONFIRMED
+URL:https://www.subrosayyc.com/news/sub-frequency-fridays/
+END:VEVENT
 END:VCALENDAR
